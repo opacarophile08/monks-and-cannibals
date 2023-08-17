@@ -66,4 +66,4 @@ yarn start
 
 ## Authors
 
-- [Aroit Pandey](https://github.com/your-opacarophile08)
+- [Arpit Pandey](https://github.com/your-opacarophile08)
